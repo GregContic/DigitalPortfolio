@@ -1,0 +1,50 @@
+<!-- 
+PLACEHOLDER IMAGE GUIDE
+======================
+
+Until you add your own images, you can use placeholder services:
+
+POSTER IMAGES (assets/posters/):
+-------------------------------
+poster1.jpg - https://picsum.photos/1080/1350?random=1
+poster2.jpg - https://picsum.photos/1080/1350?random=2
+poster3.jpg - https://picsum.photos/1080/1350?random=3
+
+VIDEO THUMBNAILS (assets/videos/):
+---------------------------------
+thumb1.jpg - https://picsum.photos/1920/1080?random=4
+thumb2.jpg - https://picsum.photos/1920/1080?random=5
+thumb3.jpg - https://picsum.photos/1920/1080?random=6
+
+PROFILE IMAGE (assets/):
+-----------------------
+profile.jpg - https://picsum.photos/500/500?random=7
+
+
+TEMPORARY SOLUTION:
+-------------------
+You can temporarily modify the index.html to use these placeholder URLs directly
+until you have your actual images ready.
+
+Replace:
+  src="assets/posters/poster1.jpg"
+With:
+  src="https://picsum.photos/1080/1350?random=1"
+
+
+RECOMMENDED FREE IMAGE SOURCES:
+-------------------------------
+1. Unsplash (unsplash.com) - High quality free photos
+2. Pexels (pexels.com) - Free stock photos
+3. Pixabay (pixabay.com) - Free images and videos
+4. Canva (canva.com) - Create custom thumbnails
+
+
+FOR YOUR ACTUAL PORTFOLIO:
+-------------------------
+1. Export your posters as JPG/PNG (high quality)
+2. Create video thumbnails from your editing software
+3. Take or commission a professional profile photo
+4. Optimize all images (compress without losing quality)
+5. Name files descriptively (e.g., "music-festival-poster.jpg")
+-->
